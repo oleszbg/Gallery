@@ -159,7 +159,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #00D3B7;
+			color: #d725d2;
 		}
 
 	strong, b {
@@ -304,8 +304,8 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			border-color: #00D3B7;
-			color: #00D3B7;
+			border-color: #dd21e0;
+			color: #dd21e0;
 		}
 
 			input[type="submit"]:hover:active,
